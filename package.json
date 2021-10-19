@@ -1,6 +1,6 @@
 {
     "name": "quick-init-cli",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "scaffolding project quick initialization configuration",
     "main": "./bin/index.js",
     "scripts": {
@@ -12,6 +12,14 @@
     "keywords": [
         "quick-init-cli"
     ],
+    "homepage": "https://github.com/ladyzdp/quick-init-cli#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ladyzdp/quick-init-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ladyzdp/quick-init-cli/issues"
+    },
     "author": "ladyzdp",
     "license": "ISC",
     "dependencies": {
